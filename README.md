@@ -1,5 +1,5 @@
 # pagina-de-conteudo
- Projeto básico do ProgramadorBR
+ Projeto básico do curso ProgramadorBR
 
  Esse é um projeto básico que simula uma página de conteúdo de um site, assim consigo entender a aplicabilidade das tags html e das propriedades css em conjunto.
 
